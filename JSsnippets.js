@@ -11,7 +11,7 @@
     },
     "Arrow function": {
         "prefix": "afn",
-        "body": ["const ${1:name} = ($2) => {", "  $3", "}"],
+        "body": ["const $1 = ($2) => {", "  $3", "}"],
         "description": "Arrow function"
     },
     "hook": {
